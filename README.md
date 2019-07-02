@@ -16,4 +16,8 @@ lookup
 
 --> CBS
 
---> others...
+--> FuboTV
+
+--> DirecTV
+
+--> AT&T Watch TV
